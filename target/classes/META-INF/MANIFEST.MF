@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: authentication
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: malmeida
+Implementation-Vendor-Id: com.example.authentication
+Build-Jdk: 1.8.0_141
+Implementation-URL: http://projects.spring.io/spring-boot/authenticati
+ on/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.example.authentication.AuthenticationApplication
+
