@@ -10,7 +10,9 @@ O propósito do projeto é ser um rest de leitura que será consumido por qualqu
 
 
 **[GET] http://localhost:8080/home** 
+
 **[POST] http://localhost:8080/login** com raw {"username":"admin", "password":"password"}
+
 **[GET] http://localhost:8080/users** com header Authorization 
 
 
